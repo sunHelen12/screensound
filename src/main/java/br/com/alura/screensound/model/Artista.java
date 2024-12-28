@@ -25,7 +25,7 @@ public class Artista {
     private TipoArtista tipo;
 
     //lista para associar músicas aos artistas
-    @OneToMany
+    @OneToMany(mappedBy = "artista")
     private List<Musica> musicas = new ArrayList<>();
 
     public Long getId() {
