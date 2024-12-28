@@ -3,7 +3,7 @@
 
 O **Screensound** é uma aplicação Java para gerenciamento de artistas e músicas. Com ela, você pode cadastrar artistas, associar músicas aos artistas cadastrados, listar músicas disponíveis e buscar informações sobre artistas. Além disso, a aplicação integra uma funcionalidade experimental para pesquisar dados sobre um artista usando uma API de inteligência artificial.
 
-Este projeto foi desenvolvido como parte do programa **One Oracle Next Generation**, em parceria com a **Alura**, com o objetivo de promover o aprendizado de desenvolvimento de software e boas práticas em programação.
+Este projeto foi desenvolvido como parte do programa **One Oracle Next Education**, em parceria com a **Alura**, com o objetivo de promover o aprendizado de desenvolvimento de software e boas práticas em programação.
 
 ---
 
