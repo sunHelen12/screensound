@@ -17,7 +17,13 @@ public class Musica {
     private String album;
     @ManyToOne
     private Artista artista;
-    
+
+    public Musica() {}
+
+    public Musica(String nomeMusica) {
+        this.titulo = nomeMusica;
+    }
+
     public Long getId() {
         return id;
     }
@@ -46,7 +52,7 @@ public class Musica {
     @Override
     public String toString() {
         return "Título: " + titulo + 
-               " Álbum: " + album + 
-               " Artista=" + artista;
+               " - Álbum: " + album + 
+               " - Artista: " + artista.getNome();
     }
 }
