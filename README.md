@@ -135,4 +135,4 @@ spring.jpa.hibernate.ddl-auto=update
 
 ---
 
-Com isso, você pode utilizar o **Screen Sound Músicas** para gerenciar artistas e músicas de forma simples e eficiente! 🚀
+Com isso, você pode utilizar o **Screensound** para gerenciar artistas e músicas de forma simples e eficiente! 🚀
